@@ -9,7 +9,7 @@ https://www.inmodis.de/osint/was-fehlermeldungen-einem-angreifer-verraten-koenne
 
 Um das Skript auszuführen benötigen Sie den Chrome Browser sowie den Chromedriver:
 - Browser: https://www.google.com/chrome/
-- https://chromedriver.chromium.org/downloads 
+- Driver: https://chromedriver.chromium.org/downloads 
 
 Beachten Sie, dass die Version des Browsers mit der Version des Drivers übereistimmen muss. 
 
