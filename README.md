@@ -15,5 +15,5 @@ Beachten Sie, dass die Version des Browsers mit der Version des Drivers übereis
 
 Werte die innerhalb des Skripts angepasst werden müssen, sind durch Kommentare gekennzeichnet. 
 
-Falls noch nicht geschehen, müssen Sie zudem mit *pip install selenium* das Selenium Package installieren. 
+Falls noch nicht geschehen, müssen Sie zudem mit ***pip install selenium*** das Selenium Package installieren. 
 
